@@ -6,8 +6,11 @@
 <h1 align="center">Hi 👋, I'm Shuvo Mallik</h1>
 <h3 align="center">MERN Stack Developer | Web Enthusiast | Open Source Contributor</h3>
 
+
+
+
 <p align="center">
-  📍 Khulna, Bangladesh | ✉️ <a href="mailto:shuvomallik999@gmail.com">shuvomallik999@gmail.com</a>
+  Khulna, Bangladesh 
 </p>
 
 ---
@@ -16,7 +19,7 @@
 
 Hi! I’m Shuvo Mallik, a passionate MERN Stack Developer from Bangladesh. I specialize in React, Node.js, Express, and MongoDB, and I love building responsive, user-friendly web applications. I enjoy turning ideas into real projects, exploring new technologies like Next.js, and contributing to open-source projects. Always eager to learn, improve, and create solutions that make an impact.
 
-Some of my current activities:  
+## Some of my current activities:  
 - 🌱 I am exploring **Next.js** and building server-side rendered projects.  
 - 💻 Working on a **Tourism website project** using React and MongoDB.  
 - 🚀 Contributing to open-source projects and learning advanced JavaScript concepts.  
@@ -42,23 +45,19 @@ Some of my current activities:
 ---
 
 ## Connect with Me
+<div aligned="center">
+  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shuvo-mallik-992308301/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" style="color:#0A66C2;" />
-  </a>
-  <a href="https://www.facebook.com/shuvo999a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="50" height="50" alt="Facebook" style="color:#1877F2;" />
-  </a>
-  <a href="mailto:shuvomallik999@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Gmail" style="color:#EA4335;" />
-  </a>
-  <a href="https://github.com/devShuvo25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="50" height="50" alt="GitHub" style="color:#333;" />
-  </a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devShuvo25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvo-mallik-992308301/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvomallik999@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dev-shuvo.netlify.app/)
 </div>
 
----
+
 
 ## GitHub Stats
 
