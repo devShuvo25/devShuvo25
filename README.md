@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo Mallik</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-![Shuvo's Banner]([https://ibb.co.com/rftyrMZF](https://i.ibb.co.com/2Y6K4PjW/Shuvo-Mallik.png))
+<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=devshuvo25&show_icons=true&locale=en&layout=compac](https://i.ibb.co.com/2Y6K4PjW/Shuvo-Mallik.png)" alt="devshuvo25" />
+
 
 
 
