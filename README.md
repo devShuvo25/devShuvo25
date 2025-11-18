@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo Mallik</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-![Shuvo's Banner]([https://i.ibb.co/album/banner.png](https://ibb.co.com/rftyrMZF))
+![Shuvo's Banner]([https://ibb.co.com/rftyrMZF](https://i.ibb.co.com/2Y6K4PjW/Shuvo-Mallik.png))
+
 
 
 
