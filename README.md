@@ -14,8 +14,7 @@
 
 ## About Me
 
-Hi! I’m **Shuvo Mallik**, a passionate MERN Stack Developer from Bangladesh.  
-I enjoy building modern, responsive, and user-friendly web applications.  
+Hi! I’m Shuvo Mallik, a passionate MERN Stack Developer from Bangladesh. I specialize in React, Node.js, Express, and MongoDB, and I love building responsive, user-friendly web applications. I enjoy turning ideas into real projects, exploring new technologies like Next.js, and contributing to open-source projects. Always eager to learn, improve, and create solutions that make an impact.
 
 Some of my current activities:  
 - 🌱 I am exploring **Next.js** and building server-side rendered projects.  
