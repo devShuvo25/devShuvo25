@@ -1,10 +1,21 @@
+<div style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" style="width: 100%;" />
+</div>
+
+###
 <!-- Profile Banner -->
 <div align="center">
   <img height="300" width="100%" src="https://i.ibb.co.com/2Y6K4PjW/Shuvo-Mallik.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shuvo Mallik</h1>
-<h3 align="center">MERN Stack Developer | Web Enthusiast | Open Source Contributor</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Web+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+
+</div>
+
+
 
 
 
@@ -14,7 +25,11 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devshuvo25.devshuvo25&"  />
+</div>
 
+###
 ## About Me
 
 Hi! I’m Shuvo Mallik, a passionate MERN Stack Developer from Bangladesh. I specialize in React, Node.js, Express, and MongoDB, and I love building responsive, user-friendly web applications. I enjoy turning ideas into real projects, exploring new technologies like Next.js, and contributing to open-source projects. Always eager to learn, improve, and create solutions that make an impact.
@@ -58,16 +73,28 @@ Hi! I’m Shuvo Mallik, a passionate MERN Stack Developer from Bangladesh. I spe
 </div>
 
 
+## GitHUb Status
+<table width="100%">
+  
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=devshuvo25&show_icons=true&theme=radical" width="100%" height="230"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshuvo25&layout=compact&theme=radical" width="100%" height="230"/>
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats
+<!-- Pacman Contribution Graph Section -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshuvo25&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshuvo25&layout=compact&theme=radical" width="48%" />
+
+<div style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" style="width: 100%;" />
 </div>
 
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devShuvo25&theme=radical" width="50%" />
-</div>
 
----
+
+
+
+
