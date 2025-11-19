@@ -77,12 +77,27 @@ Hi! I’m Shuvo Mallik, a passionate MERN Stack Developer from Bangladesh. I spe
 <table width="100%">
   
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=devshuvo25&show_icons=true&theme=radical" width="100%" height="230"/>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshuvo25&layout=compact&theme=radical" width="100%" height="230"/>
     </td>
+   
+  <td width="33%" align="center">
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devshuvo25&theme=radical" 
+    alt="devshuvo25" 
+    width="100%" 
+    height="230" 
+  />
+</td>
+
+  
+
+
+  
   </tr>
 </table>
 
