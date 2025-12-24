@@ -5,7 +5,7 @@
 ###
 <!-- Profile Banner -->
 <div align="center">
-  <img height="300" width="100%" src="https://i.ibb.co.com/2Y6K4PjW/Shuvo-Mallik.png"  />
+  <img height="100%" width="100%" src="https://i.ibb.co.com/6Rh9PDJD/Navy-Blue-Geometric-Technology-Linked-In-Banner.png]"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shuvo Mallik</h1>
