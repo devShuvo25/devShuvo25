@@ -94,9 +94,9 @@ Hi! I’m **Shuvo Mallik**, a passionate **MERN Stack Developer** from Banglades
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devshuvo25&show_icons=true&theme=radical" alt="GitHub Stats" height="180" style="margin:5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshuvo25&layout=compact&theme=radical" alt="Top Languages" height="180" style="margin:5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devshuvo25&theme=radical" alt="GitHub Streak" height="180" style="margin:5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devShuvo25&show_icons=true&theme=radical" alt="GitHub Stats" height="180" style="margin:5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devShuvo25&layout=compact&theme=radical" alt="Top Languages" height="180" style="margin:5px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devShuvo25&theme=radical" alt="GitHub Streak" height="180" style="margin:5px;"/>
 </p>
 
 ---
